@@ -29,7 +29,8 @@ java -jar CalculatorApp.jar input.csv
 ```
 
 # Output
-All output is 
+All output is in CSV format in output.csv file.
+
 # Exceptions
 Informatory messages have been configured for erroneous states of application.
 - PAYCAL_E_001: Incorrect input format.
